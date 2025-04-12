@@ -1,0 +1,7 @@
+{
+  "blocks": [
+    {"id": "1", "type": "repeat", "value": 0},
+    {"id": "2", "type": "tempo", "value": 25},
+    {"id": "3", "type": "play", "pitch": 150}
+  ]
+}
